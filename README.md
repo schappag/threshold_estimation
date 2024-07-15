@@ -1,6 +1,7 @@
 # threshold_estimation
 
-Python codes to estimate breakpoints 
+Python codes to estimate breakpoints in piecewise linear functions consisting of either three or two piecewise linear functions and noise.
+Classical application: estimation of anerobic thresholds in physiological data.
 
 Codes provided here where used in the publication
 
