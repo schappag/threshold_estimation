@@ -15,7 +15,7 @@ The code provided in this repository was used in the study:
 Authored by:
 - Markus Tilp
 - Nina Mosser
-- Gudrun Schappacher-Tilp
+- Gudrun Schappacher-Tilp (repo owner)
 - Annika Kruse
 - Philipp Birnbaumer
 - Gerhard Tschakert
