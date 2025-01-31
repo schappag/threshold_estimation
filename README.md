@@ -1,7 +1,3 @@
-Here's an improved version of the README file, which includes more detailed explanations and formatting to enhance readability:
-
----
-
 # Threshold Estimation
 
 This repository contains Python code for estimating breakpoints in piecewise linear functions, which consist of either two or three linear segments plus noise. A classic application of this method is the estimation of anaerobic thresholds in physiological data.
@@ -10,8 +6,7 @@ This repository contains Python code for estimating breakpoints in piecewise lin
 
 The code provided in this repository was used in the study:
 
-**The relationship between systemic and local breakpoints in locomotor and non-locomotor muscles during single-leg cycling**
-
+**The relationship and agreement between systemic and local breakpoints in locomotor and non-locomotor muscles during single-leg cycling**
 Authored by:
 - Markus Tilp
 - Nina Mosser
