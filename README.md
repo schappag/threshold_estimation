@@ -16,7 +16,7 @@ Authored by:
 - Philipp Birnbaumer
 - Gerhard Tschakert
 
-accepted in Frontiers.
+accepted in Frontier - Exercise Physiology
 Please cite this paper when using the code.
 
 ## Features
