@@ -7,7 +7,7 @@ This repository contains Python code for estimating breakpoints in piecewise lin
 The code provided in this repository was used in the study:
 
 **The relationship and agreement between systemic and local breakpoints in locomotor and non-locomotor muscles during single-leg cycling**
-[•https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1465344/full?utm_source=email-sig&utm_medium=email&utm_content=100_VIEWS&utm_campaign=imp_mile_2024_fall_en_aut-ww]
+(https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1465344/full?utm_source=email-sig&utm_medium=email&utm_content=100_VIEWS&utm_campaign=imp_mile_2024_fall_en_aut-ww)
 Authored by:
 - Markus Tilp
 - Nina Mosser
